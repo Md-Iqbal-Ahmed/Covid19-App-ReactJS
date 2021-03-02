@@ -6,6 +6,8 @@
 3. Able to show the data by daily till today.
 4. Show us the static data by Graph chart and Bar chart. 
 
+Live demo: https://tinder-clone-2b0ce.web.app/
+
 ## Corona details with Golbal view  
 ![001](https://user-images.githubusercontent.com/77459327/107043370-1dcfcd80-67ed-11eb-9c9d-4d095e60fbe1.png)
 
